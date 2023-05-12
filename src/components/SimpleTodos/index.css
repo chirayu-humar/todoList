@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+}
+.inner {
+  background-color: #ffffff;
+  padding: 100px;
+  border-radius: 30px;
+}
